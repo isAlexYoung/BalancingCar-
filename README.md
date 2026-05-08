@@ -30,7 +30,8 @@
 1. **克隆仓库**
    ```bash
    git clone https://github.com/用户名/仓库名.git
-2.**烧录**
-  双击打开Project.uvprojx
+2.**烧录**:
+  -双击打开Project.uvprojx
+  -接线
   
   

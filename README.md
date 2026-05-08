@@ -29,7 +29,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/用户名/仓库名.git
+   git clone https://github.com/isAlexYoung/BalancingCar-.git
 2.  **烧录**：
     - 接线：
     - 

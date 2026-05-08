@@ -31,7 +31,7 @@
    ```bash
    git clone https://github.com/用户名/仓库名.git
 2.  **烧录**：
-  - 接线：
+    - 接线：
   - 
 3. **遥控**：
   - 
